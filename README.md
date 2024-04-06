@@ -1,4 +1,5 @@
 Telecom Customer Management System
+
 This is a Django project to manage customers and plans for a telecom company.
 
 Features
